@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="800217ac-ecc2-40c3-8d8c-f10cf5528b51" name="Changes" comment="" />
+    <list default="true" id="800217ac-ecc2-40c3-8d8c-f10cf5528b51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/config/db.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/db.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aza/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodeJsProjet/aza/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +30,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2dYtu0rZHreFibmA09p2JhTxpf3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +47,10 @@
       <recent name="C:\Users\m.elhorafi\Desktop\projet\azaPeter\app\helpers" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="800217ac-ecc2-40c3-8d8c-f10cf5528b51" name="Changes" comment="" />
@@ -55,10 +64,17 @@
       <workItem from="1710930468438" duration="26611000" />
       <workItem from="1712052887797" duration="88000" />
       <workItem from="1712064275190" duration="157000" />
+      <workItem from="1713271092366" duration="282000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="252" width="853" height="536" key="find.popup" timestamp="1713271301347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="853" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1713271301347" />
   </component>
 </project>

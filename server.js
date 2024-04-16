@@ -25,7 +25,7 @@ db.sequelize.sync();
 
 // simple route
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to aza petriom ." });
+  res.json({ message: "Welcome to my app ." });
 });
 
 require("./app/routes/delivery.routes")(app);
